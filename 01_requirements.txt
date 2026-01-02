@@ -1,0 +1,21 @@
+# Data Processing
+pandas
+openpyxl
+
+# Database Connection
+pymongo[srv]
+dnspython
+certifi          # Required for the SSL fix (tlsCAFile=certifi.where())
+
+# API Framework
+fastapi
+uvicorn
+
+# Natural Language/Regex Support
+python-dateutil
+
+# Google Gemini AI
+google-generativeai
+
+# Environment Management
+python-dotenv    # Recommended for loading GEMINI_API_KEY from .env
