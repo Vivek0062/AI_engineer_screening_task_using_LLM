@@ -1,0 +1,11 @@
+{
+  "query": "Show total shipment cost for the Current month",
+  "intent": {
+    "operation": "sum",
+    "time_range": "current_month",
+    "group_by": "none",
+    "field": "discounted_cost",
+    "limit": null
+  },
+  "result": []
+}

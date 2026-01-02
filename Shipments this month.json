@@ -1,0 +1,11 @@
+{
+  "query": "How many shipments were created this month?",
+  "intent": {
+    "operation": "count",
+    "time_range": "current_month",
+    "group_by": "none",
+    "field": "none",
+    "limit": null
+  },
+  "result": 0
+}

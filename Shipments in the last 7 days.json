@@ -1,0 +1,11 @@
+{
+  "query": "Show shipments created in the last 7 days",
+  "intent": {
+    "operation": "filter",
+    "time_range": "last_7_days",
+    "group_by": "none",
+    "field": "none",
+    "limit": null
+  },
+  "result": []
+}
